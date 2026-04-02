@@ -59,3 +59,4 @@ This stage interacts with data memory. Load instructions retrieve data from memo
 The final stage updates the register file with either the ALU result or memory data. A multiplexer selects the correct value to be written back, ensuring proper program execution and maintaining architectural state consistency.
 
 ---
+<img width="823" height="582" alt="image" src="https://github.com/user-attachments/assets/98295a88-5626-4feb-a7bc-d7cc970d65a7" />
